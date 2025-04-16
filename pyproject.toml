@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "work-day"
+version = "0.1.0"
+authors = ["Daniel Johansson <daniel.johansson@lfv.se>"]
+readme = "README.md"
+#requires-python = ">=3.8"
+#maintainers = [{ name = "Daniel Johansson", email = "daniel@typecode.se" }]
+description = "Logs times and activites during a work day."
+license = "MIT"
+keywords = [
+    "work",
+    "work log",
+    "workday",
+    "work time",
+    "work logger",
+    "working day",
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.work-day]
+breaks = 1
+working-hours = 8
+log_file = "~/.work-day/log/worklog.json"
+settings_file = "~/.work-day/settings/work-day_settings.yml"
+
+[tool.poetry.plugins."console_scripts"]
+work-day = "work_day.main:main"

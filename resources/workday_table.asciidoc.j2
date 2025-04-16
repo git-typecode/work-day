@@ -1,0 +1,10 @@
+.Work Day table
+[%autowidth]
+|===
+| Start Time | Stop Time | Breaks | Working Hours | Flex | Comments
+
+{% for entry in worklog %}
+| {{ entry._start }} | {{ entry._stop }} | {{ entry._breaks }} | {{ entry._working_hours }} | {{ entry._flex }} | {% if entry._comments %}{{ entry._comments | join("\n\n&bull; ") }}{% endif %}
+{% endfor %}
+|===
+"""

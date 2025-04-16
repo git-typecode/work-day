@@ -1,0 +1,47 @@
+[build-system]
+requires = ["poetry"]
+build-backend = "poetry.build"
+
+[project]
+name = "Workday"
+version = "0.0.1"
+dependencies = [
+    "Jinja2>=3.1.2",
+    "Jinja2>=3.0.3",
+    "pytest>=8.0.1",
+    "PyYAML>=5.4.1",
+]
+requires-python = ">=3.8"
+authors = [{ name = "Daniel Johansson", email = "daniel@typecode.se" }]
+maintainers = [{ name = "Daniel Johansson", email = "daniel@typecode.se" }]
+description = "Logs times and activites during a work day."
+readme = "README.md"
+license = { file = "LICENSE.txt" }
+keywords = [
+    "work",
+    "work log",
+    "workday",
+    "work time",
+    "work logger",
+    "working day",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python",
+]
+
+[project.urls]
+Homepage = "https://example.com"
+Documentation = "https://readthedocs.org"
+Repository = "https://github.com/me/spam.git"
+"Bug Tracker" = "https://github.com/me/spam/issues"
+Changelog = "https://github.com/me/spam/blob/master/CHANGELOG.md"
+
+[project.scripts]
+spam-cli = "spam:main_cli"
+
+[project.gui-scripts]
+spam-gui = "spam:main_gui"
+
+[project.entry-points."spam.magical"]
+tomatoes = "spam:main_tomatoes"

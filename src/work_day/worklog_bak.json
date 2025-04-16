@@ -1,0 +1,416 @@
+{
+    "worklog": [
+        {
+            "_start": "2024-01-22 08:10",
+            "_stop": "2024-01-22 17:35",
+            "_breaks": 1,
+            "_working_hours": 9.42,
+            "_flex": 1.42,
+            "_comments": [
+                "f\u00f6rmiddag. Uppdatering kring IFS hack hos tieto evryn\u00e4stan bara m\u00f6ten. Lunch. M\u00f6te om IFS hackat med bjur.Pratat med phat om antura och intranet",
+                " fixat med lips3 och size p\u00e5 integrationer med kalle",
+                "Tittat p\u00e5 dev-pc med att f\u00e5 till nya cert n\u00e4r de uppdateras"
+            ]
+        },
+        {
+            "_start": "2024-01-23 08:55",
+            "_stop": "2024-01-23 16:29",
+            "_breaks": 1,
+            "_working_hours": 7.57,
+            "_flex": -0.43,
+            "_comments": []
+        },
+        {
+            "_start": "2024-01-24 08:00",
+            "_stop": "2024-01-24 18:09",
+            "_breaks": 1,
+            "_working_hours": 10.16,
+            "_flex": 2.16,
+            "_comments": []
+        },
+        {
+            "_start": "2024-01-25 08:50",
+            "_stop": "2024-01-25 17:37",
+            "_breaks": 1,
+            "_working_hours": 8.8,
+            "_flex": 0.8,
+            "_comments": [
+                "wifi work with ansible. meetings LIPS3 and Aroweb"
+            ]
+        },
+        {
+            "_start": "2024-01-26 09:15",
+            "_stop": "2024-01-26 17:14",
+            "_breaks": 1,
+            "_working_hours": 6.99,
+            "_flex": -1.01,
+            "_comments": [
+                "Fixat med access tilll nmb2b",
+                "m\u00f6te med johan b",
+                "MAT \u00f6vning fr\u00e5n 11-13. 701801 / 03 utbildning / 05 utbildning - CF KUND"
+            ]
+        },
+        {
+            "_start": "2024-01-29 07:55",
+            "_stop": "2024-01-29 17:36",
+            "_breaks": 1,
+            "_working_hours": 8.7,
+            "_flex": 0.7,
+            "_comments": []
+        },
+        {
+            "_start": "2024-01-30 08:00",
+            "_stop": "2024-01-30 18:11",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": [
+                "svara p\u00e5 jessicas fr\u00e5gor. testfall"
+            ]
+        },
+        {
+            "_start": "2024-01-31 08:00",
+            "_stop": "2024-01-31 18:49",
+            "_breaks": 1,
+            "_working_hours": 9.82,
+            "_flex": 1.82,
+            "_comments": [
+                "testfall aerotool. daily",
+                " sysdev",
+                " LIPS3 - hur g\u00e5r proj m\u00f6te. Lunch. Sofies dator",
+                " m\u00f6te med Phat. Svarade p\u00e5 Kestin mail om Fuse ikke vara"
+            ]
+        },
+        {
+            "_start": "2024-02-01 07:10",
+            "_stop": "2024-02-01 17:17",
+            "_breaks": 1,
+            "_working_hours": 9.12,
+            "_flex": 1.12,
+            "_comments": [
+                "bara jobbat med update msxxx template och Antora"
+            ]
+        },
+        {
+            "_start": "2024-02-02 07:30",
+            "_stop": "2024-02-02 16:06",
+            "_breaks": 1,
+            "_working_hours": 7.609999999999999,
+            "_flex": -0.39,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-05 07:54",
+            "_stop": "2024-02-05 18:47",
+            "_breaks": 1,
+            "_working_hours": 9.9,
+            "_flex": 1.9,
+            "_comments": [
+                "IFS reporting took 1h",
+                "bara jobb med int104 doc plus m\u00f6ten"
+            ]
+        },
+        {
+            "_start": "2024-02-06 07:10",
+            "_stop": "2024-02-06 17:54",
+            "_breaks": 1,
+            "_working_hours": 9.74,
+            "_flex": 1.74,
+            "_comments": [
+                "Dokumentation f\u00f6r int104 till ms104 template",
+                " fix med app05 efter patch med J\u00f6rgen",
+                "Kollade alla fel p\u00e5 lips2-test och tds"
+            ]
+        },
+        {
+            "_start": "2024-02-07 07:15",
+            "_stop": "2024-02-07 16:54",
+            "_breaks": 1,
+            "_working_hours": 8.65,
+            "_flex": 0.65,
+            "_comments": [
+                "N\u00e4stan bara m\u00f6ten. Anitas. backlog. Antura proj m\u00f6te. fixade med doc int104 till Jessica."
+            ]
+        },
+        {
+            "_start": "2024-02-08 07:45",
+            "_stop": "2024-02-08 17:06",
+            "_breaks": 1,
+            "_working_hours": 8.35,
+            "_flex": 0.35,
+            "_comments": [
+                "int106 p\u00e5 test ig\u00e5ng igen",
+                " int106 f\u00f6r Antura projektet",
+                " terminalen dog",
+                " m\u00f6te om admin-dev n\u00e4t"
+            ]
+        },
+        {
+            "_start": "2024-02-09 08:49",
+            "_stop": "2024-02-09 16:49",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-12 07:48",
+            "_stop": "2024-02-12 18:05",
+            "_breaks": 1,
+            "_working_hours": 9.3,
+            "_flex": 1.3,
+            "_comments": [
+                "Ny sprint hela fm",
+                " Lunch i svedala sen fika",
+                " Vecko m\u00f6te med ing-marie",
+                " M\u00f6te med Antura",
+                " Lite jobb med Antura."
+            ]
+        },
+        {
+            "_start": "2024-02-13 07:42",
+            "_stop": "2024-02-13 15:42",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": [
+                "dev-pc from scratch"
+            ]
+        },
+        {
+            "_start": "2024-02-14 07:42",
+            "_stop": "2024-02-14 15:42",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": [
+                "norrk\u00f6ping"
+            ]
+        },
+        {
+            "_start": "2024-02-15 07:42",
+            "_stop": "2024-02-15 15:42",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": [
+                "norrk\u00f6ping"
+            ]
+        },
+        {
+            "_start": "2024-02-16 08:40",
+            "_stop": "2024-02-16 17:34",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-19 07:24",
+            "_stop": "2024-02-19 18:14",
+            "_breaks": 1,
+            "_working_hours": 9.84,
+            "_flex": 1.84,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-20 08:00",
+            "_stop": "2024-02-20 19:30",
+            "_breaks": 1,
+            "_working_hours": 8.55,
+            "_flex": 0.55,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-21 07:15",
+            "_stop": "2024-02-21 16:20",
+            "_breaks": 1,
+            "_working_hours": 8.09,
+            "_flex": 0.09,
+            "_comments": [
+                "many meetings",
+                " worked in lips3 ms and ss with david"
+            ]
+        },
+        {
+            "_start": "2024-02-22 07:40",
+            "_stop": "2024-02-22 19:00",
+            "_breaks": 1,
+            "_working_hours": 10.35,
+            "_flex": 2.35,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-26 07:50",
+            "_stop": "2024-02-26 18:09",
+            "_breaks": 1,
+            "_working_hours": 9.33,
+            "_flex": 1.33,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-27 07:15",
+            "_stop": "2024-02-27 18:05",
+            "_breaks": 1,
+            "_working_hours": 9.84,
+            "_flex": 1.84,
+            "_comments": [
+                "Meetings all day",
+                " small dev with camel test for int107"
+            ]
+        },
+        {
+            "_start": "2024-02-28 07:24",
+            "_stop": "2024-02-28 16:53",
+            "_breaks": 1,
+            "_working_hours": 8.49,
+            "_flex": 0.49,
+            "_comments": []
+        },
+        {
+            "_start": "2024-02-29 07:26",
+            "_stop": "2024-02-29 16:41",
+            "_breaks": 1,
+            "_working_hours": 8.26,
+            "_flex": 0.26,
+            "_comments": []
+        },
+        {
+            "_start": "2024-03-01 07:41",
+            "_stop": "2024-03-01 17:41",
+            "_breaks": 1,
+            "_working_hours": 9.0,
+            "_flex": 1,
+            "_comments": []
+        },
+        {
+            "_start": "2024-03-04 08:00",
+            "_stop": "2024-03-04 17:30",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": []
+        },
+        {
+            "_start": "2024-03-05 07:15",
+            "_stop": "2024-03-05 16:30",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": []
+        },
+        {
+            "_start": "2024-03-06 07:10",
+            "_stop": "2024-03-06 15:21",
+            "_breaks": 1,
+            "_working_hours": 8.0,
+            "_flex": 0,
+            "_comments": []
+        },
+        {
+            "_start": "2024-03-11 08:00",
+            "_stop": "2024-03-11 18:29",
+            "_breaks": 1,
+            "_working_hours": 9.48,
+            "_flex": 1.48,
+            "_comments": []
+        },
+        {
+            "_start": "2024-03-12 07:30",
+            "_stop": "2024-03-12 18:53",
+            "_breaks": 1,
+            "_working_hours": 10.39,
+            "_flex": 2.39,
+            "_comments": [
+                "K\u00f6penhamn Redhat kurs Modern app development roadshow"
+            ]
+        },
+        {
+            "_start": "2024-03-13 07:40",
+            "_stop": "2024-03-13 16:53",
+            "_breaks": 1,
+            "_working_hours": 8.22,
+            "_flex": 0.22,
+            "_comments": [
+                "F\u00f6rsta dagen p\u00e5 WTC, uppacking och iordingst\u00e4llande",
+                "Dr\u00f6narkartan",
+                "python debug package"
+            ]
+        },
+        {
+            "_start": "2024-03-14 07:35",
+            "_stop": "2024-03-14 17:12",
+            "_breaks": 1,
+            "_working_hours": 8.63,
+            "_flex": 0.63,
+            "_comments": [
+                "daily",
+                "lips3 m\u00f6te.",
+                "F\u00f6rberedelser f\u00f6r medarbetarsamtal med ing-marie.",
+                "lunch till 13:00",
+                "13:00 - m\u00f6te med ing-marie till 15:00",
+                "uppdatera template f\u00f6r sys-intxxx"
+            ]
+        },
+        {
+            "_start": "2024-03-15 08:00",
+            "_stop": "2024-03-15 18:00",
+            "_breaks": 1,
+            "_working_hours": 8,
+            "_flex": 0,
+            "_comments": [
+                "uppdatera template f\u00f6r sys-intxxx"
+            ]
+        },
+        {
+            "_start": "2024-03-18 08:00",
+            "_stop": "2024-03-18 16:30",
+            "_breaks": 1,
+            "_working_hours": 8,
+            "_flex": 0,
+            "_comments": [
+                "Bara möten. Jessica/LIPS3 innan lunch och efter"
+            ]
+        },
+        {
+            "_start": "2024-03-19 07:40",
+            "_stop": "2024-03-19 17:50",
+            "_breaks": 1,
+            "_working_hours": 8,
+            "_flex": 0,
+            "_comments": [
+                "jbang problem, antura integration"
+            ]
+        },
+        {
+            "_start": "2024-03-20 07:40",
+            "_stop": "2024-03-20 16:30",
+            "_breaks": 1,
+            "_working_hours": 8,
+            "_flex": 0,
+            "_comments": [
+                ""
+            ]
+        },
+        {
+            "_start": "2024-03-21 07:40",
+            "_stop": "2024-03-21 16:30",
+            "_breaks": 1,
+            "_working_hours": 8,
+            "_flex": 0,
+            "_comments": [
+                ""
+            ]
+        },
+        {
+            "_start": "2024-03-22 07:40",
+            "_stop": "2024-03-22 16:30",
+            "_breaks": 1,
+            "_working_hours": 8,
+            "_flex": 0,
+            "_comments": [
+                ""
+            ]
+        }
+    ]
+}

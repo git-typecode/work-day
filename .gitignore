@@ -1,0 +1,4 @@
+./src/work_day/log
+./src/work_day/worklog_bak.json
+./dist
+.vscode

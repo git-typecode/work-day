@@ -1,0 +1,4 @@
+work_day:
+  defaults:
+    breaks: 1
+    working_hours: 8
